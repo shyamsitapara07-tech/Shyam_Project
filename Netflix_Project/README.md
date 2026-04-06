@@ -5,22 +5,14 @@
 This project performs data analysis on Netflix dataset using Python.
 It extracts meaningful insights and visualizes trends related to content available on Netflix.
 
-The analysis helps in understanding patterns in:
-
-* Movies vs TV Shows distribution
-* Content ratings
-* Movie duration trends
-* Year-wise release growth
-* Top content-producing countries
-
 ---
 
 ## 🚀 Features
 
-* Data cleaning and preprocessing
+* Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
-* Multiple visualizations using Matplotlib
-* Insightful graphs for better understanding
+* Data Visualization using Matplotlib
+* Insightful Graphs
 
 ---
 
@@ -34,80 +26,60 @@ The analysis helps in understanding patterns in:
 
 ## 📂 Dataset
 
-* **File:** `netflix\_titles.csv`
-* Contains:
-
-  * Type (Movie / TV Show)
-  * Release Year
-  * Rating
-  * Country
-  * Duration
+* File: `netflix_titles.csv`
 
 ---
 
 ## 📈 Analysis & Visualizations
 
-### 📊 Movies vs TV Shows
+### 🎥 Movies vs TV Shows
 
-Comparison of total Movies and TV Shows available on Netflix
-
-![Movies vs TV Shows](Graph/Movies_vs_Tvshows.png)
+![Movies vs TV Shows](Movies_vs_Tvshows.png)
 
 ---
 
 ### 🥧 Content Ratings Distribution
 
-Percentage of different content ratings
-
-![Ratings](Graph/Content_Ratings_Pie.png)
+![Ratings](Content_Ratings_Pie.png)
 
 ---
 
 ### ⏱️ Movie Duration Analysis
 
-Distribution of movie durations
-
-![Duration](Graph/Movie_duration_histogram.png)
+![Duration](Movie_duration_histogram.png)
 
 ---
 
 ### 📅 Release Year Analysis
 
-Growth of content over the years
-
-![Release](Graph/Release_Year_Scatter.png)
+![Release](Release_Year_Scatter.png)
 
 ---
 
 ### 🌍 Top 10 Countries
 
-Countries producing the most content
-
-![Countries](Graph/Top10_Countries.png)
+![Countries](Top10_Countries.png)
 
 ---
 
-### 📉 Movies vs TV Shows Over Time
+### 📊 Movies vs TV Shows Over Time
 
-Trend comparison over years
-
-![Comparison](Graph/Movies_TV_Shows_Comparision.png)
+![Comparison](Movies_TV_Shows_Comparision.png)
 
 ---
-
 
 ## ▶️ How to Run
 
-1️⃣ Install dependencies:
+1. Install dependencies:
 
 ```
 pip install pandas matplotlib
 ```
 
-2️⃣ Run the script:
+2. Run the script:
 
 ```
-python Code/Netfix_python.py
+python Netfix_python.py
 ```
 
 ---
@@ -116,7 +88,7 @@ python Code/Netfix_python.py
 
 * Movies dominate Netflix content
 * TV-MA is the most common rating
-* Most movies fall in 90–120 minutes range
+* Most movies fall between 90–120 minutes
 * Rapid growth after 2010
 * United States produces the highest content
 
