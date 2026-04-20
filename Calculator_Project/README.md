@@ -9,7 +9,7 @@ It supports basic arithmetic operations with both button clicks and keyboard inp
 
 ## 📸 Preview
 
-![Calculator UI](Calculator_UI.png.png)
+![Calculator UI](Calculator_UI.png)
 
 ---
 
@@ -34,7 +34,7 @@ It supports basic arithmetic operations with both button clicks and keyboard inp
 
 * `Quick_calculator.py` → Main Python file
 * `Quick_calculator.exe` → Executable file
-* `Calculator_UI.png.png` → UI screenshot
+* `Calculator_UI.png` → UI screenshot
 
 ---
 
