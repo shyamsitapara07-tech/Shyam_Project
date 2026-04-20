@@ -7,10 +7,16 @@ It supports basic arithmetic operations with both button clicks and keyboard inp
 
 ---
 
+## 📸 Preview
+
+![Calculator UI](Calculator_UI.png.png)
+
+---
+
 ## 🚀 Features
 
 * Basic operations (+, -, *, /)
-* Clean modern UI (Dark Theme)
+* Clean modern dark UI
 * Keyboard input support
 * Clear (C) and Backspace (⌫) functionality
 * Error handling
@@ -26,8 +32,9 @@ It supports basic arithmetic operations with both button clicks and keyboard inp
 
 ## 📂 Project Files
 
-* `calculator.py` → Main Python file
-* `Quick_calculator.exe` → Executable file (optional)
+* `Quick_calculator.py` → Main Python file
+* `Quick_calculator.exe` → Executable file
+* `Calculator_UI.png.png` → UI screenshot
 
 ---
 
@@ -35,15 +42,15 @@ It supports basic arithmetic operations with both button clicks and keyboard inp
 
 ### 🔹 Run Python File
 
-```id="rzzb2f"
-python calculator.py
+```
+python Quick_calculator.py
 ```
 
 ### 🔹 OR Run EXE File
 
 Just double click:
 
-```id="kp9okg"
+```
 Quick_calculator.exe
 ```
 
@@ -56,12 +63,6 @@ Quick_calculator.exe
 * Enter → Calculate
 * Backspace → Delete last digit
 * Escape → Clear
-
----
-
-## 📸 Preview
-
-(Add screenshot here if needed)
 
 ---
 
