@@ -13,6 +13,12 @@ It supports basic arithmetic operations with both button clicks and keyboard inp
 
 ---
 
+## ⬇️ Download App
+
+[Download Calculator](Quick_calculator.exe)
+
+---
+
 ## 🚀 Features
 
 * Basic operations (+, -, *, /)
@@ -48,7 +54,7 @@ python Quick_calculator.py
 
 ### 🔹 OR Run EXE File
 
-Just double click:
+Click the download link above and open:
 
 ```
 Quick_calculator.exe
