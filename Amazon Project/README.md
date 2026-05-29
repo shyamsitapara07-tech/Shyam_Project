@@ -1,54 +1,60 @@
-# OLA Analytics Dashboard
+# Amazon Sales Dashboard
 
 ## Overview
-The OLA Analytics Dashboard is an interactive Power BI project developed to analyze ride bookings, revenue performance, vehicle-wise trends, cancellation patterns, and customer ratings.
+The Amazon Sales Dashboard is an interactive Power BI project developed to analyze sales performance, product categories, fulfillment methods, courier status, and state-wise sales distribution.
 
 ## Tools Used
 - Power BI
-- SQL
 - Microsoft Excel
 - Data Visualization
 - Data Analysis
 
 ## Key Features
-- Ride Booking Analysis
-- Revenue Analysis
-- Vehicle Type Performance
-- Customer & Driver Cancellation Analysis
-- Customer Rating Analysis
+- Sales Performance Analysis
+- Category-wise Product Analysis
+- Courier Status Tracking
+- Fulfillment Performance Analysis
+- Size-wise Product Distribution
+- State-wise Sales Analysis
 - Interactive Date Filters and Slicers
-- Dynamic KPI Tracking
+- KPI Monitoring
 
-## Dashboard Pages
+## Dashboard Insights
+- Monitored total sales amount of 11.58M.
+- Analyzed product category performance across multiple categories.
+- Evaluated courier delivery status including shipped, on-the-way, cancelled, and unshipped orders.
+- Compared fulfillment performance between Amazon and Merchant fulfillment methods.
+- Identified top-performing states based on order volume.
+- Analyzed product size distribution and customer demand patterns.
 
-### 1. Overall Dashboard
-Provides a complete overview of total bookings, booking value, booking status breakdown, and ride volume trends.
+## Dashboard Components
 
-### 2. Vehicle Type Dashboard
-Analyzes booking value, successful bookings, average distance travelled, and total distance travelled across different vehicle categories.
+### Sales KPI
+- Total Sales Amount
+- Interactive Date Filter
 
-### 3. Revenue Dashboard
-Tracks revenue by payment method, top customers, and ride distance trends.
+### Product Analysis
+- Top 5 Product Categories
+- Product Size Distribution
 
-### 4. Cancellation Dashboard
-Identifies booking cancellations by customers and drivers along with major cancellation reasons.
+### Order & Delivery Analysis
+- Courier Status Distribution
+- Delivery Partner Analysis
+- Fulfillment Analysis
 
-### 5. Ratings Dashboard
-Evaluates customer and driver ratings across different vehicle categories.
-
-## Key Insights
-- Analyzed over 20K ride bookings.
-- Tracked booking success and cancellation patterns.
-- Compared vehicle performance across multiple categories.
-- Evaluated revenue contribution by payment methods.
-- Identified major customer and driver cancellation reasons.
-- Measured customer satisfaction through rating analysis.
+### Geographic Analysis
+- State-wise Sales Distribution
 
 ## Dashboard Preview
 
-![Overall Dashboard](Amazon.png)
+![Amazon Sales Dashboard](Amazon.png)
 
-
+## Key Business Insights
+- T-Shirts generated the highest order volume among all product categories.
+- Most orders were successfully shipped compared to other courier statuses.
+- Amazon Fulfillment handled a larger share of orders than Merchant Fulfillment.
+- Maharashtra and Karnataka recorded the highest sales activity.
+- Medium and XL-sized products showed strong customer demand.
 
 ## Author
 
