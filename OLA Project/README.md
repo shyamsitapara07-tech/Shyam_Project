@@ -46,15 +46,15 @@ Evaluates customer and driver ratings across different vehicle categories.
 
 ## Dashboard Preview
 
-![Overall Dashboard](Overall_Dashboard.png)
+![Overall Dashboard](Ola_1.png)
 
-![Vehicle Type Dashboard](Vehicle_Type_Dashboard.png)
+![Vehicle Type Dashboard](Ola_2.png)
 
-![Revenue Dashboard](Revenue_Dashboard.png)
+![Revenue Dashboard](Ola_3.png)
 
-![Cancellation Dashboard](Cancellation_Dashboard.png)
+![Cancellation Dashboard](Ola_4.png)
 
-![Ratings Dashboard](Ratings_Dashboard.png)
+![Ratings Dashboard](Ola_5.png)
 
 ## Author
 
