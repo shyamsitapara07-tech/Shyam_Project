@@ -62,7 +62,7 @@ This dashboard provides a comprehensive view of the EV industry across multiple 
 
 ## 📷 Dashboard Preview
 
-![EV Dashboard](EV Dashboard.png)
+![EV Dashboard](EV%20Dashboard.png)
 
 ---
 
