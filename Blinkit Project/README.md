@@ -64,7 +64,7 @@ This Power BI dashboard provides an in-depth analysis of Blinkit's sales perform
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](BlinkitPro.png)
+![Blinkit Dashboard](Blinkit Dashboard.png)
 
 ---
 
