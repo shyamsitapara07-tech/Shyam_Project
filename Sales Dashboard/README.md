@@ -84,8 +84,7 @@ The **Sales & Profit Intelligence Dashboard** is an interactive Power BI dashboa
 
 ## 📷 Dashboard Preview
 
-![Sales & Profit Intelligence Dashboard](Sales_Dashboard.png)
-
+![Sales & Profit Intelligence Dashboard](Sales Dashboard.png)
 ---
 
 ## 🚀 Key Insights
