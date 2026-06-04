@@ -92,7 +92,9 @@ The **Zomato Restaurant Analytics Dashboard** is an interactive Power BI dashboa
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect With Me    
+
+contact me:- www.linkedin.com/in/shyam-sitapara
 
 If you have any suggestions or feedback, feel free to connect with me on LinkedIn and explore more of my Power BI projects.
 
