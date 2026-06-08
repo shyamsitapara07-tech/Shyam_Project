@@ -67,7 +67,9 @@ The goal of this project is to transform raw business data into actionable insig
 ![Zepto Dashboard](Zepto%20Dashboard.png)
 
 ---
+Project Link:-
 
+Linkedin:-  linkedin.com/in/shyam-sitapara
 
 ---
 
@@ -77,9 +79,7 @@ The goal of this project is to transform raw business data into actionable insig
 
 BCA Student | Aspiring Data Analyst | Power BI Dashboard Developer
 
-LinkedIn: 
 
-linkedin.com/in/shyam-sitapara
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
