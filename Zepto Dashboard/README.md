@@ -69,7 +69,7 @@ The goal of this project is to transform raw business data into actionable insig
 ---
 Project Link:-
 
-Linkedin:-  linkedin.com/in/shyam-sitapara
+🔗 LinkedIn Profile: [Shyam Sitapara](https://www.linkedin.com/in/shyam-sitapara)
 
 ---
 
