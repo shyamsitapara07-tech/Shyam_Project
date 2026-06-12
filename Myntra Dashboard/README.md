@@ -1,6 +1,7 @@
 # 🛍️ Myntra Fashion Analytics Dashboard
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Myntra Analytics Dashboard.png)
+
 
 ## 📌 Project Overview
 
